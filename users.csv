@@ -1,0 +1,14 @@
+FirstName,LastName,SamAccountName,Department,Title,Email,Password,Enabled,ChangeAtLogon,AdditionalGroups
+John,Smith,,Sales,Trade Counter Sales,,,,,
+Priya,Patel,,Sales,Account Manager,,,,,GG-Management
+Liam,OBrien,,Warehouse,Warehouse Operative,,,,,
+Emma,Jones,,CustomerService,Support Agent,,,,,
+Carlos,Ramirez,,Workshop,Fitter,,,,,
+Sofia,Rossi,,Ecommerce,Web Merchandiser,,,,,
+Daniel,Nguyen,,Procurement,Buyer,,,,,
+Grace,Muller,,Finance,Accounts Payable,,,,,
+Ahmed,Khan,,IT,Systems Administrator,,,,,
+Olivia,Brown,,Management,Operations Manager,,,,,
+Tom,Wilson,,Logistics,Dispatch Coordinator,,,,,
+Hannah,Lee,,HR,HR Officer,,,,,
+Mark,Taylor,,Marketing,Marketing Executive,,,,,
